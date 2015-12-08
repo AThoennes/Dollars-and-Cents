@@ -1,5 +1,6 @@
 /*
  * By: Alexander Thoennes
+ * September 14, 2015
  * 
  * This program asks the user to enter a number of pennies,
  * nickels, dimes, and quarters. It then calculates the 
